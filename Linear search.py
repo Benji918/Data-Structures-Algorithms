@@ -9,5 +9,5 @@ def linear_search(list, target):
 
 
 
-print(linear_search([1,2,3,4,5], 15))
+print(linear_search([1,2,3,4,5], 5))
 
